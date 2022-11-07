@@ -18,7 +18,7 @@
 
 ## `⭐ Contact :`
 
-- Telegram: https://t.me/cyber_lawd
+- Telegram: https://t.me/cybergeeky
 
 ##### Please ⭐ the repo to support our project
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
